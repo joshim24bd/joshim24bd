@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @joshim24bd
 - 👀 I’m interested in learning programming
-- 🌱 I’m currently learning htms css and js
+- 🌱 I’m currently learning HTML,CSS and JS
 - 💞️ I’m looking to collaborate on programmung world
 - 📫 
 
